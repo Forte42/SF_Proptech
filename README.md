@@ -1,6 +1,6 @@
 # SF_Proptech
 
-A Jupyter notebook to practice hvPlot.
+A Jupyter notebook to practice hvPlot!
 
 ---
 
